@@ -3,3 +3,4 @@ frontend/
 start-frontend.bat
 start-frontend.sh
 SYSTEM_OVERVIEW.md
+.env
