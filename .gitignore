@@ -1,0 +1,5 @@
+node_modules
+frontend/
+start-frontend.bat
+start-frontend.sh
+SYSTEM_OVERVIEW.md
